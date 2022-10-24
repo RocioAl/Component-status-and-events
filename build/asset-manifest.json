@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Component-status-and-events/build/static/css/main.85768c17.css",
+    "main.js": "/Component-status-and-events/build/static/js/main.18062ab1.js",
+    "static/js/787.cba0b02e.chunk.js": "/Component-status-and-events/build/static/js/787.cba0b02e.chunk.js",
+    "index.html": "/Component-status-and-events/build/index.html",
+    "main.85768c17.css.map": "/Component-status-and-events/build/static/css/main.85768c17.css.map",
+    "main.18062ab1.js.map": "/Component-status-and-events/build/static/js/main.18062ab1.js.map",
+    "787.cba0b02e.chunk.js.map": "/Component-status-and-events/build/static/js/787.cba0b02e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85768c17.css",
+    "static/js/main.18062ab1.js"
+  ]
+}
